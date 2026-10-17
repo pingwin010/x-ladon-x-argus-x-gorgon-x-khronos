@@ -29,6 +29,7 @@ tiktok api algorithms generate x-ladon, x-argus, x-gorgon, x-khronos
 
 
 ### Latest version available for testing 
+### updates
 
 ### contact me Contact for api : [https://t.me/pingwin010](https://t.me/pingwin010)
 ## telegram: @pingwin010
