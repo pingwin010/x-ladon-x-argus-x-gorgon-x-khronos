@@ -3,7 +3,7 @@ import time
 import json
 from types import SimpleNamespace
 
-server = "http://ip:port/api/xSign"
+server = "http://ip:port/api/xSigns"
   
 currentTime = time.time()
 
